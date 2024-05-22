@@ -1,0 +1,36 @@
+[
+  {
+    "title": "Diary application",
+    "imageSrc": "projects/diaryapp.png",
+    "description": "This app developed with the aim of enhancing the users to write their thoughts and emotions on a digital platform Users can able to create, view, edit, or delete their writings",
+    "skills": ["React", "Express", "Node","MongoDB","Bootstrap"],
+    "demo": "https://polite-lokum-41f032.netlify.app//",
+    "source": "https://github.com/Abhishek94Bire/diaryapp-frontend-master.git"
+  },
+  {
+    "title": "Zenclass StudentDashboard",
+    "imageSrc": "projects/zenclassdashboard.png",
+    "description": "I developed an exceptional student dashboard for ZEN Class, providing students with a comprehensive platform for managing their academicjourney.",
+    "skills": ["React", "Express", "Node", "MongoDB","Bootstrap"],
+    "demo": "https://main--effervescent-faun-547ef4.netlify.app/",
+    "source": "https://github.com/Abhishek94Bire/zenclass-frontend-main.git"
+  },
+  {
+    "title": " Tech blog",
+    "imageSrc": "projects/techblog.png",
+    "description": "This tech blog developed with the aim of enhancing the users to write their thoughts and emotions on a digital platform Users can able to create blog and edit or delete ",
+    "skills": ["React", "Express", "Node", "MongoDB","Bootstrap"],
+    "demo": "https://helpful-shortbread-c18129.netlify.app/home",
+    "source": "https://github.com/Abhishek94Bire/blog-frontend-master.git"
+  },
+  
+  {
+    "title": "QR Generator application",
+    "imageSrc": "projects/qrgenerator.png",
+    "description": "This app was developed to enable users to convert URL into QR code Users can generate QR codes with customization like color,background,and size.",
+    "skills": ["React","MockApi","Bootstrap","HTML","CSS"],
+    "demo": "https://resonant-marigold-3ef3ca.netlify.app/",
+    "source": "https://github.com/Abhishek94Bire/QR_Generator-main.git"
+  }
+ 
+]
